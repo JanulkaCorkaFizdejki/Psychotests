@@ -1,4 +1,9 @@
 <?php
+// Authr: Robert Nowiński
+// Email: nowinski.robert@gmail com
+// Project: "PSYCHOTESTS" / AGH (PUM)/ Kraków 2019 
+
+
 require_once ('settings.php');
 
 class DatabaseConnect extends Settings {
