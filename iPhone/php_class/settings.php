@@ -6,10 +6,10 @@
 
 class Settings {
 // =================================== DATABASE SETTINGS ======================================= //
-    protected const DB_SERVER_NAME = "localhost";
-    protected const DB_USER_NAME = "mercuriu_ppum";
-    protected const DB_PASSWORD = "ProjectPUM2019!";
-    protected const DB_NAME = "mercuriu_projectpum";
+    protected const DB_SERVER_NAME = "xxx";
+    protected const DB_USER_NAME = "xxx";
+    protected const DB_PASSWORD = "xxx";
+    protected const DB_NAME = "xxx";
 // --------------------------------------------------------------------------------------------- //
 
 // ===================================== ISHIHATA TEST SETTINGS ================================ //
